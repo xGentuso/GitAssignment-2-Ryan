@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Ryan, a passionate web developer specializing 
 
 ## About Me
 
-- 👨‍💻 Currently practicing on Assignment 2.
+- 👨‍💻 Currently working on Assignment 2.
 - 🌱 Learning more about GitHub.
 - 💡 Interested in collaborating on projects related to Web Development.
 - 🎓 TrioS College.
